@@ -23,3 +23,6 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178155100-89859ee7-4a45-4f78-94ef-d8e0adb45524.png)
 
+**Line Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155236-e5c03c1f-4260-4afe-8e69-4f6e6c4d533b.png)
