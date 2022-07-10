@@ -30,3 +30,9 @@
 **Area Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178155266-ba1a2644-ade2-4daa-a76b-36102d7e067e.png)
+
+**Stacked Area Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155387-fc412f7b-f63b-4495-8186-0682be7047ac.png)
+
+
