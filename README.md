@@ -16,7 +16,8 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178154851-88340072-1602-4b3c-aaba-efa9a487716f.png)
 
-**100% Stacked Bar Chart **
+**100% Stacked Bar Chart**
+
 ![image](https://user-images.githubusercontent.com/99253246/178154896-cd739faa-517d-49f6-94d7-6974ca66adb1.png)
 
 **100% Stacked column Chart**
@@ -34,5 +35,9 @@
 **Stacked Area Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178155387-fc412f7b-f63b-4495-8186-0682be7047ac.png)
+
+**Line and Stacked Column Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155444-fa44408b-7c15-4090-885c-54e1ffbd70ba.png)
 
 
