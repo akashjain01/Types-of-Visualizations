@@ -48,3 +48,6 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178155583-46960c40-703c-417c-8c39-7a9c47005169.png)
 
+**Waterfall Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155618-718832bf-740e-49e2-8b80-290d62050faa.png)
