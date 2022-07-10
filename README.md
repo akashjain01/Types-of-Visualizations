@@ -44,4 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178155547-63bd8e1b-47c3-4f2e-bea8-0ca6492efa13.png)
 
+**Ribbon Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155583-46960c40-703c-417c-8c39-7a9c47005169.png)
 
