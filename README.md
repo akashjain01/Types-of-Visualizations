@@ -15,3 +15,6 @@
 **Clustered Column Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178154851-88340072-1602-4b3c-aaba-efa9a487716f.png)
+
+**100% Stacked Bar Chart **
+![image](https://user-images.githubusercontent.com/99253246/178154896-cd739faa-517d-49f6-94d7-6974ca66adb1.png)
