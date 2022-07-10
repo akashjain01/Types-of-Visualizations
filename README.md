@@ -11,3 +11,7 @@
 **Clustered Bar Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178154802-a05bd217-fee4-4f83-98c3-6f7a71980280.png)
+
+**Clustered Column Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178154851-88340072-1602-4b3c-aaba-efa9a487716f.png)
