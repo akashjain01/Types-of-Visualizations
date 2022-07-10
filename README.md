@@ -40,4 +40,8 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178155444-fa44408b-7c15-4090-885c-54e1ffbd70ba.png)
 
+**Line and Clustered Column Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155547-63bd8e1b-47c3-4f2e-bea8-0ca6492efa13.png)
+
 
