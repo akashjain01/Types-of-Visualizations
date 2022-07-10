@@ -26,3 +26,7 @@
 **Line Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178155236-e5c03c1f-4260-4afe-8e69-4f6e6c4d533b.png)
+
+**Area Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155266-ba1a2644-ade2-4daa-a76b-36102d7e067e.png)
