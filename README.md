@@ -18,3 +18,8 @@
 
 **100% Stacked Bar Chart **
 ![image](https://user-images.githubusercontent.com/99253246/178154896-cd739faa-517d-49f6-94d7-6974ca66adb1.png)
+
+**100% Stacked column Chart**
+
+![image](https://user-images.githubusercontent.com/99253246/178155100-89859ee7-4a45-4f78-94ef-d8e0adb45524.png)
+
