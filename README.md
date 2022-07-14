@@ -60,4 +60,7 @@ Scatter Chart
 
 ![image](https://user-images.githubusercontent.com/99253246/178925426-99a5ad2b-af4e-4680-b846-89034aac8574.png)
 
+Pie Chart
+
+![image](https://user-images.githubusercontent.com/99253246/178925540-41f2d8e7-7515-4e7c-9eef-63e9d78d6a65.png)
 
