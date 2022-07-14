@@ -56,5 +56,8 @@ Funnel Chart
 
 ![image](https://user-images.githubusercontent.com/99253246/178925155-a238b41a-2934-4743-a98b-47a1059d4d7d.png)
 
+Scatter Chart
+
+![image](https://user-images.githubusercontent.com/99253246/178925426-99a5ad2b-af4e-4680-b846-89034aac8574.png)
 
 
