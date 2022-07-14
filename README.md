@@ -72,3 +72,7 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178925806-b0b42967-1bc4-49f0-9df1-bda023a8662a.png)
 
+
+**Card**
+
+![image](https://user-images.githubusercontent.com/99253246/178926256-6feddc2a-54aa-4ce2-ba5d-17b7122792fb.png)
