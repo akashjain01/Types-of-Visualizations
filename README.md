@@ -52,18 +52,23 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178155618-718832bf-740e-49e2-8b80-290d62050faa.png)
 
-Funnel Chart
+**Funnel Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178925155-a238b41a-2934-4743-a98b-47a1059d4d7d.png)
 
-Scatter Chart
+**Scatter Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178925426-99a5ad2b-af4e-4680-b846-89034aac8574.png)
 
-Pie Chart
+**Pie Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178925540-41f2d8e7-7515-4e7c-9eef-63e9d78d6a65.png)
 
-Donut Chart
+**Donut Chart**
 
 ![image](https://user-images.githubusercontent.com/99253246/178925681-1850d437-d1e9-4892-864a-ee51a9b343a7.png)
+
+**TreeMap** 
+
+![image](https://user-images.githubusercontent.com/99253246/178925806-b0b42967-1bc4-49f0-9df1-bda023a8662a.png)
+
