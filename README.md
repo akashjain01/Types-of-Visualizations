@@ -84,3 +84,8 @@
 **Slicer**
 
 ![image](https://user-images.githubusercontent.com/99253246/178926746-d1b8752f-0aa5-4ac2-9e0b-e9873b71b3b3.png)
+
+**Table**
+
+![image](https://user-images.githubusercontent.com/99253246/178927023-cd92d201-816c-4a27-9cb7-723a61322eb6.png)
+
