@@ -52,4 +52,9 @@
 
 ![image](https://user-images.githubusercontent.com/99253246/178155618-718832bf-740e-49e2-8b80-290d62050faa.png)
 
+Funnel Chart
+
+![image](https://user-images.githubusercontent.com/99253246/178925155-a238b41a-2934-4743-a98b-47a1059d4d7d.png)
+
+
 
