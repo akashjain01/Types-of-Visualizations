@@ -64,3 +64,6 @@ Pie Chart
 
 ![image](https://user-images.githubusercontent.com/99253246/178925540-41f2d8e7-7515-4e7c-9eef-63e9d78d6a65.png)
 
+Donut Chart
+
+![image](https://user-images.githubusercontent.com/99253246/178925681-1850d437-d1e9-4892-864a-ee51a9b343a7.png)
