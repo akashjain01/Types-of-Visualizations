@@ -80,3 +80,7 @@
 **Multi-Row Card**
 
 ![image](https://user-images.githubusercontent.com/99253246/178926493-a6089e7f-e66d-45ad-b1fe-5092413457ff.png)
+
+**Slicer**
+
+![image](https://user-images.githubusercontent.com/99253246/178926746-d1b8752f-0aa5-4ac2-9e0b-e9873b71b3b3.png)
